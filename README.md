@@ -60,8 +60,8 @@ cd weather-dashboard
 npm install
 
 # 3. Configurar credenciales
-cp .env.local.example .env.local
-# Editar .env.local con tu Project URL y anon key de Supabase
+cp .env .env
+# Editar .env con tu Project URL y anon key de Supabase
 
 # 4. Levantar el servidor de desarrollo
 npm run dev
