@@ -86,7 +86,7 @@ weather-dashboard/
 │   │   └── Dashboard.jsx
 │   ├── App.jsx
 │   └── main.jsx
-├── .env.local.example
+├── .env
 ├── index.html
 ├── package.json
 └── vite.config.js
