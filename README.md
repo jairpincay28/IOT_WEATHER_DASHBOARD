@@ -108,5 +108,4 @@ weather-dashboard/
 
 **Autor:** Jair Pincay
 **Materia / Curso:** Aolicaciones Telemáticas Basadas en Web - 8vo Semestre
-**Docente:** ____________________
-**Fecha:** ____________________
+**Docente:** Ing. Cristhian Zambrano
